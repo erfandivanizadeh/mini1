@@ -1,3 +1,4 @@
+//123456
 /****************************
 
 			Author:
@@ -64,7 +65,7 @@ class mini1
         } 
         
         
-		for (int i=0; i<=4; i++) //for 1
+		for (int i=0; i<=4; i++) //for 1 
 		{
 			//int totalScore = overall;
 			int number = questionGenerator();
